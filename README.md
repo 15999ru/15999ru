@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm a Java & C# Developer | Minecraft Plugin Creator 🚀
 
 ## 🌟 About Me
-- 🎓 15 y/o | 8th Grade Student 📚  
+- 🎓 15 y/o | 9th Grade Student 📚  
 - 💻 Passionate Java & C# Developer  
 - 🎮 Minecraft Plugin Magician | 🌐 Simple Websites  
 - 🛠 Spring Boot Enthusiast | ⚙️ Windows Apps  
@@ -38,7 +38,7 @@
 # 👋 Привет! Я Java и C# разработчик | Создаю плагины для Minecraft 🚀
 
 ## 🌟 Обо мне
-- 🎓 15 лет | Ученик 8 класса 📚  
+- 🎓 15 лет | Ученик 9 класса 📚  
 - 💻 Увлеченный разработчик на Java и C#  
 - 🎮 Любитель плагинов для Minecraft | 🌐 Простые сайты  
 - 🛠 Любитель Spring Boot | ⚙️ Приложения под Windows  
