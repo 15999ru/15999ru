@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm a Java & C# Developer | Minecraft Plugin Creator 🚀
 
 ## 🌟 About Me
-- 🎓 15 y/o | 9th Grade Student 📚  
+- 🎓 16 y/o | 9th Grade Student 📚  
 - 💻 Passionate Java & C# Developer  
 - 🎮 Minecraft Plugin Magician | 🌐 Simple Websites  
 - 🛠 Spring Boot Enthusiast | ⚙️ Windows Apps  
@@ -31,14 +31,14 @@
 ---
 
 ## 📬 Let's Connect!
-- 💬 Telegram: @nnn_15999
+- 💬 Telegram: @korik_one_love
 
 ---
 
 # 👋 Привет! Я Java и C# разработчик | Создаю плагины для Minecraft 🚀
 
 ## 🌟 Обо мне
-- 🎓 15 лет | Ученик 9 класса 📚  
+- 🎓 16 лет | Ученик 9 класса 📚  
 - 💻 Увлеченный разработчик на Java и C#  
 - 🎮 Любитель плагинов для Minecraft | 🌐 Простые сайты  
 - 🛠 Любитель Spring Boot | ⚙️ Приложения под Windows  
@@ -68,7 +68,7 @@
 ---
 
 ## 📬 Свяжитесь со мной!
-- 💬 Telegram: @nnn_15999
+- 💬 Telegram: @korik_one_love
 
 🤝 Open to collaborations! | 🚧 Learning every day!  
 🤝 Открыт к сотрудничеству! | 🚧 Учусь каждый день!
